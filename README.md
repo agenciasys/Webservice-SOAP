@@ -1,4 +1,4 @@
 Webservice SOAP
 ===============
 
-Implementação de webservice SOAP com Zend Framework
+Implementação de webservice SOAP com Zend Framework.
